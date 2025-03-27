@@ -1,1 +1,2 @@
-# noticia2
+# noticias
+Um portal com as notícias da cidade
